@@ -1,5 +1,3 @@
-import "./styles.css";
-
 export const Header = () => {
   const links = [
     {
